@@ -1,0 +1,18 @@
+---
+title: "Pascal Lee Slew"
+image: "pascal.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/pascal-lee-slew/"
+  - label: GitHub
+    url: "https://github.com/Pascal-304"
+  - label: Email
+    url: "pascal.leeslew@mail.utoronto.ca"
+output:
+  postcards::jolla
+---
+ 
+## About Me
+
+I am currently a third-year undergraduate student majoring in Actuarial Science and Statistics at the University of Toronto. I am aspiring to become an actuarial analyst. I was born and raised in Mauritius. I enjoy hiking and listening to music. If you ever had a chance to visit Mauritius, I recommend hiking Le Pouce mountain and visit Eau Bleue.   
+
